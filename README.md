@@ -24,3 +24,8 @@ Build Many Hackintosh Until End of Hackintosh
  
 ## 🌱 My BAEKJOON Profile
  <img src="http://mazandi.herokuapp.com/api?handle=sdr0311&theme=dark"/>
+ 
+ ## Programming Languages
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=59rice)](https://github.com/59rice/github-readme-stats)
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=59rice)](https://github.com/59rice/github-readme-stats)
