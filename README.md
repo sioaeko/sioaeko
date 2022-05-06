@@ -3,13 +3,15 @@
 
 <a href="https://github.com/59rice"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F59rice&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%white&title=Github&edge_flat=false)"/></a>
 
----
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=あさなり%20&fontSize=60&fontColor=d6ace6)
 
 
-## ⌘ My Achievement Goal
-**Be a Back-End Engineer
-Master to study Java(Kotlin,Groovy,EMCA,Coffee Script),Python,PHP,C++,C#,Node.js,Go and more lang
+## ⌘ My Achievement Goal 
+
+Be a Back-End Engineer 
+
+Master to study Java(Kotlin,Groovy,EMCA,Coffee Script),Python,PHP,C++,C#,Node.js,Go and more lang                                                                      
+
 Build Many Hackintosh Until End of Hackintosh
 
 ## ⌥ Study For me
@@ -23,9 +25,5 @@ Build Many Hackintosh Until End of Hackintosh
  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-round&logo=Wireshark&logoColor=#3DDC84"/>  <img src="https://img.shields.io/badge/github-black?style=flat-round&logo=github&logoColor=#3DDC84"/>
  
 ## 🌱 My BAEKJOON Profile
- <img src="http://mazandi.herokuapp.com/api?handle=sdr0311&theme=dark"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=sdr0311&theme=dark"/>  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=59rice)](https://github.com/59rice/github-readme-stats)
  
- ## Programming Languages
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=59rice)](https://github.com/59rice/github-readme-stats)
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=59rice)](https://github.com/59rice/github-readme-stats)
