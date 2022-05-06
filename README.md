@@ -10,8 +10,6 @@
 
 Be a Back-End Engineer 
 
-Master to study Java(Kotlin,Groovy,EMCA,Coffee Script),Python,PHP,C++,C#,Node.js,Go and more lang                                                                      
-
 Build Many Hackintosh Until End of Hackintosh
 
 ## ⌥ Study For me
