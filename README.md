@@ -9,8 +9,7 @@
 ## ⌘ My Achievement Goal 
 
 Be a Back-End Engineer 
-
-Build Many Hackintosh Until End of Hackintosh
+Linux & BSD Systems Kernel Maintainer
 
 ## ⌥ Study For me
 
