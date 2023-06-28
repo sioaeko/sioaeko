@@ -8,7 +8,8 @@
 
 ## ⌘ My Achievement Goal 
 
-Be a Back-End Engineer 
+Be a Back-End Engineer
+ML/AI Engineer/Researcher
 Linux & BSD Systems Kernel Maintainer
 
 ## ⌥ Study For me
