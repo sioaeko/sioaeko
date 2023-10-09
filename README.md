@@ -22,9 +22,6 @@ Linux & BSD Systems Kernel Maintainer
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-round&logo=VMware&logoColor=#white"/> <img src="https://img.shields.io/badge/Jetbrains-Lightgreen?style=flat-round&logo=JetBrains&logoColor=#white"/>  <img src="https://img.shields.io/badge/Android Studio-white?style=flat-round&logo=Android Studio&logoColor=#3DDC84"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-round&logo=Visual Studio Code&logoColor=#3DDC84"/>
  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-round&logo=Wireshark&logoColor=#3DDC84"/>  <img src="https://img.shields.io/badge/github-black?style=flat-round&logo=github&logoColor=#3DDC84"/>
  
-## 🌱 My BAEKJOON Profile
- <img src="http://mazandi.herokuapp.com/api?handle=sdr0311&theme=dark"/> 
- 
  
 ## ⌚️ Summary
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=59rice)](https://github.com/59rice/github-readme-stats)
