@@ -11,10 +11,10 @@
 韓国で機械学習エンジニア兼クラウドサーバーエンジニアという職業を持ってスタートアップ企業を準備しています。                       
 I am preparing for a startup company in Korea with a job as a machine learning engineer and cloud server engineer.
 
-## ⌥ Study For me
+## ⌥ Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-round&logo=Java&logoColor=#007396"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-white?style=flat-round&logo=HTML5&logoColor=#E34F26"/>  <img src="https://img.shields.io/badge/swift-white?style=flat-round&logo=swift&logoColor=#F05138"/>  <img src="https://img.shields.io/badge/Docker-white?style=flat-round&logo=Docker&logoColor=#2496ED"/>  <img src="https://img.shields.io/badge/Go-white?style=flat-round&logo=Go&logoColor=#00ADD8"/>  
-<img src="https://img.shields.io/badge/Python-white?style=flat-round&logo=Python&logoColor=#white"/> <img src="https://img.shields.io/badge/Kotlin-white?style=flat-round&logo=Kotlin&logoColor=#blue"/>
+<img src="https://img.shields.io/badge/Python-white?style=flat-round&logo=Python&logoColor=#white"/> <img src="https://img.shields.io/badge/Kotlin-white?style=flat-round&logo=Kotlin&logoColor=#blue"/> 
 
 ## ⏏︎ My Favorite Tools
 <img src="https://img.shields.io/badge/Atom-66595C?style=flat-round&logo=Atom&logoColor=#66595C"/>  <img src="https://img.shields.io/badge/iTerm2-black?style=flat-round&logo=iTerm2&logoColor=#00000"/> <img src="https://img.shields.io/badge/Notion-black?style=flat-round&logo=Notion&logoColor=#white"/>
