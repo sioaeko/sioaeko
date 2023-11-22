@@ -8,9 +8,8 @@
 
 ## ⌘ My Achievement Goal 
 
-Be a Back-End Engineer
-ML/AI Engineer/Researcher
-Linux & BSD Systems Kernel Maintainer
+韓国で機械学習エンジニア兼クラウドサーバーエンジニアという職業を持ってスタートアップ企業を準備しています。
+I am preparing for a startup company in Korea with a job as a machine learning engineer and cloud server engineer.
 
 ## ⌥ Study For me
 
