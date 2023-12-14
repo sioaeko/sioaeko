@@ -28,7 +28,7 @@ jobs:
           user: sioaeko
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Seoul
+          config_timezone: Asia/Tokyo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
