@@ -9,6 +9,7 @@
 ## ⌘ My Achievement Goal 
 
 私はネットワークサーバー、機械学習、ディープラーニングを専攻しています。
+
 I specialize in network servers, machine learning, and deep learning.
 
 
