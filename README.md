@@ -27,7 +27,7 @@ My Profile
 -------------------------------
 Name: Shimokobe Aeko
 Work: シデロスラボ (Personal Studio), University 
-Location: Seoul, South Korea 🇰🇷
+Location: 
 Loves: Travel ✈️,Design 🖊️, New DL/ML technology 🚀, Hotfix 🛠️, Mac 🖥️
 Hobbies: Coding ⌨️, Build Network System 🌐, Hackintosh 🖥️, Learning about new language 🌏
 Languages: Bash, C+, CSharp, Python, NodeJS, AML, ruby, Java, Javascript, SQL, HTML, CSS
