@@ -3,7 +3,11 @@
 
 <a href="https://github.com/59rice"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F59rice&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%white&title=Github&edge_flat=false)"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=あさなり%20&fontSize=60&fontColor=d6ace6)         
+<div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=あさなり%20&fontSize=60&fontColor=d6ace6)    
+
+</div>
 
 
 <h2 align="center">My Profile</h2>
@@ -39,7 +43,11 @@ Telegram : @sioaeko
  
 
 <h2 align="center">⌚️ Summary</h2>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sioaeko)](https://github.com/sioaeko/github-readme-stats)
+<div align="center">
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sioaeko)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 <br>
