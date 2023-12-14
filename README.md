@@ -32,7 +32,7 @@ Gender: Male.
 Location: Seoul, South Korea
 Loves: Design 🖊️, New DL/ML technology 🚀, Hotfix 🛠️, Mac 🖥️
 Hobbies: Coding ⌨️, Build Network System 🌐, Hackintosh 🖥️, Learning about new language 🌏
-Languages: Bash, C+, CSharp, Python, NodeJS, AML, ruby, Java, Javascript, SQL, HTML, CSS, C
+Languages: Bash, C+, CSharp, Python, NodeJS, AML, ruby, Java, Javascript, SQL, HTML, CSS ~
 Telegram : @sioaeko
 ```
 <br>
