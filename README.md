@@ -39,6 +39,8 @@ Telegram : @sioaeko
 
 <h2 align="center">⌥ Stack</h2>
 
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="520"></p>
  
  
 
