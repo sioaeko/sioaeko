@@ -9,7 +9,7 @@
 
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=あさなり%20&fontSize=60&fontColor=d6ace6)    
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=あえこ%20&fontSize=60&fontColor=d6ace6)    
 
 </div>
 
