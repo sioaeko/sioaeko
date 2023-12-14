@@ -20,7 +20,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/sioaeko/sioaeko/assets/101755125/b5833b71-f989-458c-a662-90eb685d35bf" width="138px"/> 
+<img align="left" src="https://github.com/sioaeko/sioaeko/assets/101755125/b5833b71-f989-458c-a662-90eb685d35bf" width="120px"/> 
 
 ```csharp
 My Profile
