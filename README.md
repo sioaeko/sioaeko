@@ -6,11 +6,29 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=あさなり%20&fontSize=60&fontColor=d6ace6)         
 
 
-## ⌘ My Achievement Goal 
+## My Profile
 
-私はネットワークサーバー、機械学習、ディープラーニングを専攻しています。
+```zsh
+> neofetch
+```
 
-I specialize in network servers, machine learning, and deep learning.
+<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
+
+```csharp
+My Profile
+-------------------------------
+Name: Shimokobe Aeko
+Work: シデロスラボ (Personal Studio), University 
+Gender: Male.
+Location: Seoul, South Korea
+Loves: Design 🖊️, New DL/ML technology 🚀, Hotfix 🛠️, Mac 🖥️
+Hobbies: Coding ⌨️, Build Network System 🌐, Hackintosh 🖥️, Learning about new language 🌏
+Languages: Bash, C+, CSharp, Python, NodeJS, AML, ruby, Java, Javascript, SQL, HTML, CSS, C
+Telegram : @sioaeko
+```
+<br>
+
+
 
 
 ## ⌥ Stack
@@ -26,4 +44,13 @@ I specialize in network servers, machine learning, and deep learning.
  
 ## ⌚️ Summary
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=59rice)](https://github.com/59rice/github-readme-stats)
+
+
+<br>
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@soiaeko?theme=gelbooru" />
+  </div>
+<br>
  
