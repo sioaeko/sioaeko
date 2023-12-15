@@ -14,7 +14,7 @@
 </div>
 
 
-<h2 align="center">My Profile</h2>
+<h2 align="center">🪪  My Profile</h2>
 
 ```zsh
 > neofetch
