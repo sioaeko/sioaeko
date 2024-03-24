@@ -1,8 +1,12 @@
 <h3 align="center">Hi there👋</div>
 <h3 align="center">Welcome to My repo!!</h2>
+<h3 align="center">This is the place to upload your new hackintoshes and side projects.</h3>
+<hr>
+
+
 
 <div align="center">
-<a href="https://github.com/59rice"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F59rice&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%white&title=Github&edge_flat=false)"/></a>
+<a href="https://github.com/sioaeko"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F59rice&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%white&title=Github&edge_flat=false)"/></a>
 </div>
 
 
@@ -28,7 +32,7 @@ My Profile
 Name: Shimokobe Aeko
 Loves: Travel ✈️,Design 🖊️, New DL/ML technology 🚀, Hotfix 🛠️, Mac 🖥️, AI Deeplearning
 Hobbies: Coding ⌨️, Build Network System 🌐, Hackintosh 🖥️, Learning about new language 🌏
-Languages: Bash, C+, CSharp, Python, NodeJS, AML, ruby, Java, Javascript, SQL, HTML, CSS
+Languages: Bash, C+, CSharp, Python, NodeJS, AML, ruby, Java, Javascript, SQL, HTML, CSS, GO, PHP, Coffeescript/Typescript, Markdown(md), Swift and More...
 Telegram : @sioaeko
 ```
 
