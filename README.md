@@ -1,5 +1,4 @@
 <h3 align="center">Hi there👋</div>
-<h3 align="center">Welcome to My repo!!</h2>
 <h3 align="center">다양한 프로젝트와 해킨토시 제작을 하고있습니다.</h3>
 <hr>
 
