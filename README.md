@@ -32,7 +32,7 @@ My Profile
 Name: Shimokobe Aeko
 Loves: Travel ✈️,Design 🖊️, New DL/ML technology 🚀, Hotfix 🛠️, Mac 🖥️, AI Deeplearning
 Hobbies: Coding ⌨️, Build Network System 🌐, Hackintosh 🖥️, Learning about new language 🌏
-Languages: Bash, C+, CSharp, Python, NodeJS, AML, ruby, Java, Javascript, SQL, HTML, CSS, GO, PHP, Coffeescript/Typescript, Markdown(md), Swift and More...
+Languages: Bash, C+, CSharp, Python, NodeJS, AML, ruby, Java, Javascript, SQL, CSS, GO, PHP, Coffeescript/Typescript, Markdown(md), Swift
 Telegram : @sioaeko
 ```
 
