@@ -16,7 +16,7 @@
 </div>
 
 
-<h2 align="center">🪪  My Profile</h2>
+<h2 align="center">🪪 프로필</h2>
 
 ```zsh
 > neofetch
@@ -37,14 +37,14 @@ Telegram : @sioaeko
 
 
 
-<h2 align="center">⌥ Stack</h2>
+<h2 align="center">⌥ 매트릭스</h2>
 
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="520"></p>
  
  
 
-<h2 align="center">⌚️ Summary</h2>
+<h2 align="center">⌚️ 요약</h2>
 <div align="center">
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sioaeko)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,7 +54,7 @@ Telegram : @sioaeko
 
 <br>
 <div>
-<h2 align="center">👀 View counter </h2>
+<h2 align="center">👀 방문자수 집계 </h2>
 <div align="center">
 <img src="https://moe-counter.glitch.me/get/@soiaeko?theme=gelbooru" />
   </div>
