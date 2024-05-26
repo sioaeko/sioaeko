@@ -59,4 +59,8 @@ Telegram : @sioaeko
 <img src="https://moe-counter.glitch.me/get/@soiaeko?theme=gelbooru" />
   </div>
 <br>
+
+<h2 align="center">⭐ 스타 기록 </h2>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Hackintosh-Opencore-LG-Gram-13ZD940-GX70K-OC-0.7.9,sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5,sioaeko/Hackintosh-OPENCORE-Gigabyte-AORUS-Z490-Elite,sioaeko/Deeptube-Youtube-Downloader&type=Timeline)](https://star-history.com/#sioaeko/Hackintosh-Opencore-LG-Gram-13ZD940-GX70K-OC-0.7.9&sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5&sioaeko/Hackintosh-OPENCORE-Gigabyte-AORUS-Z490-Elite&sioaeko/Deeptube-Youtube-Downloader&Timeline)
  
