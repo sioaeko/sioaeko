@@ -1,5 +1,5 @@
-<h3 align="center">반가워요 👋</div>
-<h3 align="center">다양한 프로젝트와 해킨토시 제작을 하고있습니다.</h3>
+<h3 align="center">Welcome! 👋</div>
+<h3 align="center">I'm working on various side projects and a main project from a developer's perspective.</h3>
 
 
 
