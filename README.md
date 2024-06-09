@@ -1,5 +1,6 @@
 <h3 align="center">Welcome! 👋</div>
 <h3 align="center">I'm working on various side projects and a main project from a developer's perspective.</h3>
+<h3 align="center">We are currently using ChatGPT 4o to maintain the OpenCore EFIs we previously created<h3 align="center">
 
 
 
