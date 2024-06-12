@@ -4,7 +4,9 @@
 
 
 <div align="center">
-<a href="https://github.com/sioaeko"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F59rice&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%white&title=Github&edge_flat=false)"/></a>
+ 
+![header](https://komarev.com/ghpvc/?username=sioaeko&color=brightgreen&style=for-the-badge)
+
 </div>
 
 
