@@ -100,8 +100,10 @@ Telegram : @sioaeko
   </div>
 <br>
 
-<h2 align="center">⭐ Star History </h2>
 
+<h2 align="center">⭐ Star History </h2>
+<div align="center">
+ 
 [![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Hackintosh-Opencore-LG-Gram-13ZD940-GX70K-OC-0.7.9,sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5,sioaeko/Hackintosh-OPENCORE-Gigabyte-AORUS-Z490-Elite,sioaeko/Deeptube-Youtube-Downloader&type=Timeline)](https://star-history.com/#sioaeko/Hackintosh-Opencore-LG-Gram-13ZD940-GX70K-OC-0.7.9&sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5&sioaeko/Hackintosh-OPENCORE-Gigabyte-AORUS-Z490-Elite&sioaeko/Deeptube-Youtube-Downloader&Timeline)
 
 
