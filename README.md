@@ -29,8 +29,8 @@
 ```csharp
 My Profile
 -------------------------------
-Name: 서대렬
-Loves: Travel ✈️,Design 🖊️, New DL/ML technology 🚀, Hotfix 🛠️, Mac 🖥️, AI Deeplearning
+Name: sioaeko
+Loves: Design 🖊️, New DL/ML technology 🚀, Hotfix 🛠️, Mac 🖥️, AI Deeplearning
 Hobbies: Coding ⌨️, Build Network System 🌐, Hackintosh 🖥️, Learning about new language 🌏
 Languages: C, Python, ruby, Java, Javascript, CSS, GO, PHP, Coffeescript/Typescript, Markdown(md), Swift
 Telegram : @sioaeko
