@@ -27,7 +27,7 @@
 <img align="left" src="https://github.com/user-attachments/assets/ab3da2ba-5832-4839-9a49-2ff98e9f8ff5" width="120px"/> 
 
 ```csharp
-My Profile
+sioaeko@macOS
 -------------------------------
 Name: sioaeko
 Loves: Design 🖊️, New DL/ML technology 🚀, Hotfix 🛠️, Mac 🖥️, AI Deeplearning
