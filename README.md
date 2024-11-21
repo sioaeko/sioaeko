@@ -106,4 +106,4 @@ Telegram : @sioaeko
  
 [![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Hackintosh-intel-i7-10700k-Z490-Aorus-Elite-Sonoma,sioaeko/Hackintosh-i7-10700k-Z490-AORUS-Elite,sioaeko/Hackintosh-LG-Gram-13ZD940-GX70K,sioaeko/Deeptube-Youtube-Downloader,sioaeko/OpenVoiceChanger&type=Date)](https://star-history.com/#sioaeko/Hackintosh-intel-i7-10700k-Z490-Aorus-Elite-Sonoma&sioaeko/Hackintosh-i7-10700k-Z490-AORUS-Elite&sioaeko/Hackintosh-LG-Gram-13ZD940-GX70K&sioaeko/Deeptube-Youtube-Downloader&sioaeko/OpenVoiceChanger&Date)
 
- 
+ ![APT.](https://vinylogue-render.onrender.com/album-card?artist=ROS%C3%89&album=APT.)
