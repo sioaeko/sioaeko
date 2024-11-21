@@ -106,4 +106,4 @@ Telegram : @sioaeko
  
 [![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Hackintosh-intel-i7-10700k-Z490-Aorus-Elite-Sonoma,sioaeko/Hackintosh-i7-10700k-Z490-AORUS-Elite,sioaeko/Hackintosh-LG-Gram-13ZD940-GX70K,sioaeko/Deeptube-Youtube-Downloader,sioaeko/OpenVoiceChanger&type=Date)](https://star-history.com/#sioaeko/Hackintosh-intel-i7-10700k-Z490-Aorus-Elite-Sonoma&sioaeko/Hackintosh-i7-10700k-Z490-AORUS-Elite&sioaeko/Hackintosh-LG-Gram-13ZD940-GX70K&sioaeko/Deeptube-Youtube-Downloader&sioaeko/OpenVoiceChanger&Date)
 
-![YENA - 네모네모](https://vinylogue-render.onrender.com/album-card?artist=YENA&album=%EB%84%A4%EB%AA%A8%EB%84%A4%EB%AA%A8)
+![Latto - Sugar Honey Iced Tea](https://vinylogue-render.onrender.com/album-card?artist=Latto&album=Sugar%20Honey%20Iced%20Tea)
