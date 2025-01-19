@@ -104,6 +104,8 @@ Telegram : @sioaeko
 <h2 align="center">⭐ Star History </h2>
 <div align="center">
  
-[![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Hackintosh-intel-i7-10700k-Z490-Aorus-Elite-Sonoma,sioaeko/Hackintosh-i7-10700k-Z490-AORUS-Elite,sioaeko/Hackintosh-LG-Gram-13ZD940-GX70K,sioaeko/Deeptube-Youtube-Downloader,sioaeko/OpenVoiceChanger&type=Date)](https://star-history.com/#sioaeko/Hackintosh-intel-i7-10700k-Z490-Aorus-Elite-Sonoma&sioaeko/Hackintosh-i7-10700k-Z490-AORUS-Elite&sioaeko/Hackintosh-LG-Gram-13ZD940-GX70K&sioaeko/Deeptube-Youtube-Downloader&sioaeko/OpenVoiceChanger&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Deeptube-Youtube-Downloader,sioaeko/HFModelDownloader,sioaeko/OpenVoiceChanger,sioaeko/Lunasocks,sioaeko/Hackintosh-LG-Gram-13ZD940-GX70K,sioaeko/Hackintosh-i7-10700k-Z490-AORUS-Elite,sioaeko/Hackintosh-intel-i7-10700k-Z490-Aorus-Elite-Sonoma,sioaeko/NLLB_translator,sioaeko/StatusWatch&type=Date)](https://star-history.com/#sioaeko/Deeptube-Youtube-Downloader&sioaeko/HFModelDownloader&sioaeko/OpenVoiceChanger&sioaeko/Lunasocks&sioaeko/Hackintosh-LG-Gram-13ZD940-GX70K&sioaeko/Hackintosh-i7-10700k-Z490-AORUS-Elite&sioaeko/Hackintosh-intel-i7-10700k-Z490-Aorus-Elite-Sonoma&sioaeko/NLLB_translator&sioaeko/StatusWatch&Date)
 
 ![APT.](https://vinylogue-render.onrender.com/album-card?artist=ROS%C3%89&album=APT.)
