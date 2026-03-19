@@ -39,8 +39,10 @@ Contact     Telegram @sioaeko
 ## OS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=apple,windows,arch,debian,ubuntu,linux,manjaro&theme=dark" />
 </p>
+
+> macOS · Windows · Arch Linux · Debian · Ubuntu · Lubuntu · Manjaro
 
 ---
 
