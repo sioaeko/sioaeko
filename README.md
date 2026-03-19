@@ -39,10 +39,12 @@ Contact     Telegram @sioaeko
 ## OS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,windows,arch,debian,ubuntu,linux,manjaro&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali&theme=dark" />
+  <br><br>
+  <a><img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white" /></a>
 </p>
-
-> macOS · Windows · Arch Linux · Debian · Ubuntu · Lubuntu · Manjaro
 
 ---
 
