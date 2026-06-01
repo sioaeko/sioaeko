@@ -12,7 +12,6 @@
 Name        sioaeko
 Interests   Design · DL/ML · Hotfix · macOS · AI Deep Learning
 Hobbies     Coding · Network Systems · Server Management · Language Learning
-Contact     Telegram @sioaeko
 ```
 
 ---
