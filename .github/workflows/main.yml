@@ -27,7 +27,10 @@ jobs:
           # Options
           user: sioaeko
           template: classic
-          base: header, activity, community, repositories, metadata
+          # Only sections that show sioaeko's own data. `activity` and `community`
+          # are intentionally excluded — they surface third-party accounts you have
+          # interacted with (e.g. their repos), which we don't want on the profile.
+          base: header, repositories, metadata
           config_timezone: Asia/Seoul
 
           # Dark theme to match the profile README (#0d1117 / #238636)
