@@ -28,7 +28,21 @@ jobs:
           user: sioaeko
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Tokyo
+          config_timezone: Asia/Seoul
+
+          # Dark theme to match the profile README (#0d1117 / #238636)
+          extras_css: |
+            h1, h2, h3          { color: #e6edf3; }
+            h1 svg, h2 svg, h3 svg { fill: #e6edf3; }
+            .field, footer, svg text, tspan { color: #8b949e; fill: #8b949e; }
+            .field svg          { fill: #6e7681; }
+            a                   { color: #58a6ff; }
+            rect.day[fill="#ebedf0"] { fill: #161b22; }
+            rect.day[fill="#9be9a8"] { fill: #0e4429; }
+            rect.day[fill="#40c463"] { fill: #006d32; }
+            rect.day[fill="#30a14e"] { fill: #26a641; }
+            rect.day[fill="#216e39"] { fill: #39d353; }
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
